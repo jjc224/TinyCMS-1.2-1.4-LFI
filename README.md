@@ -5,7 +5,7 @@
 | TinyCMS 1.2 <= 1.4 - Local File Inclusion                                                                                02/10/2012  | 
 |                                                                                                                                      | 
 | Author: Phizo (Joshua Coleman)                                                                                                       | 
-| Usage:  php exploit.php -u http://target.tld -f shell.php                                                                            |
+| Usage:  php exploit.php -u http://target.com/ -f /etc/passwd                                                                         |
 |                                                                                                                                      | 
 | All current versions (at the time of release) of TinyCMS appear to be affected by the following local file inclusion vulnerability.  |
 | TinyCMS 1.0 and 1.1 are no longer available on the vendor's website; however, 1.2 through to 1.4 remain today                        | 
