@@ -4,7 +4,7 @@
  --------------------------------------------------------------------------------------------------------------------------------------  
 | TinyCMS 1.2 <= 1.4 - Local File Inclusion                                                                                02/10/2012  | 
 |                                                                                                                                      | 
-| Author: (Phizo) Joshua Coleman                                                                                                       | 
+| Author: Phizo (Joshua Coleman)                                                                                                       | 
 | Usage:  php exploit.php -u http://target.tld -f shell.php                                                                            |
 |                                                                                                                                      | 
 | All current versions (at the time of release) of TinyCMS appear to be affected by the following local file inclusion vulnerability.  |
